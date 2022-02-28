@@ -4,10 +4,12 @@ craftbeerpi-ui-widgets
 CBPI4 Grafiksammlung, CraftbeerPi4_SVG_Icons_kalausr
 
 INSTALLATION
+
 Kopiere den Inhalt des SVG Verzeichnisses in den Ordner "~/config/widgets".
 Oder folge den Anweisungen im CBPI4 Nutzermanual im Kapitel "Dashboards". 
 
 NUTZUNG
+
 kalausr - Klaus Rolshoven, info@rolshoven.com
 
 Freie Grafiken fuer die Hobbybrauercommunity Hobbybrauer.de.
@@ -24,10 +26,12 @@ Kommerzielle Nutzung nur nach individueller Freigabe und Lizenzierung durch den 
 CBPI4 graphics collection, CraftbeerPi4_SVG_Icons_kalausr
 
 INSTALLATION
+
 Content of the SVG directory to be copied into "~/config/widgets"
 Or follow the instruction in the CBPI4 user manual in chapter "Dashboards"
 
 USAGE
+
 kalausr - Klaus Rolshoven, info@rolshoven.com
 
 Free graphics for the hobby brewer community Hobbybrauer.de.
