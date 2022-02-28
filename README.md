@@ -1,5 +1,4 @@
 # craftbeerpi-ui-widgets
-craftbeerpi-ui-widgets
 
 CBPI4 Grafiksammlung, CraftbeerPi4_SVG_Icons_kalausr
 
