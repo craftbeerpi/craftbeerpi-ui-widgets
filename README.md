@@ -20,7 +20,7 @@ https://hobbybrauer.de/forum/viewtopic.php?p=449962#p449962
 Kommerzielle Nutzung nur nach individueller Freigabe und Lizenzierung durch den Autor. 
 Ähnlichkeit zu existierenden Produkten sind rein zufällig und nicht beabsichtigt.
 
-![CraftbeerPi4_SVG_Icons_kalausr_v1 1_kl](https://user-images.githubusercontent.com/87930313/165307212-631ebc8b-df3a-4758-92ea-0f231bccbadc.jpg)
+![cbpi4_Icons_v1 22](https://user-images.githubusercontent.com/87930313/183845058-1fdb76ab-e1e0-409a-9db2-ab68514ad149.jpg)
 
 
 CBPI4 graphics collection, CraftbeerPi4_SVG_Icons_kalausr
