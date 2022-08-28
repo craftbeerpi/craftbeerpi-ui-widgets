@@ -21,7 +21,7 @@ Kommerzielle Nutzung nur nach individueller Freigabe und Lizenzierung durch den 
 Ähnlichkeit zu existierenden Produkten sind rein zufällig und nicht beabsichtigt.
 
 
-![cbpi4_Icons_v1 24](https://user-images.githubusercontent.com/87930313/185333333-0e6e9791-4f4b-4d7f-a20d-9d3ea61fe5cd.jpg)
+![cbpi4_Icons_v1 25-01](https://user-images.githubusercontent.com/87930313/187066673-a2ac3551-66ec-434a-af0c-98cbebdf2901.png)
 
 
 CBPI4 graphics collection, CraftbeerPi4_SVG_Icons_kalausr
