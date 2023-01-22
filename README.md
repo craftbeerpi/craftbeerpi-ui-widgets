@@ -21,7 +21,8 @@ Kommerzielle Nutzung nur nach individueller Freigabe und Lizenzierung durch den 
 Ähnlichkeit zu existierenden Produkten sind rein zufällig und nicht beabsichtigt.
 
 
-![CraftbeerPi4_Iconset_SVG_v1 26_full](https://user-images.githubusercontent.com/87930313/212545310-146d53e3-e218-4ca3-ac33-d8c6a0f449e5.jpg)
+
+![cbpi4_Icons_v1 261-01](https://user-images.githubusercontent.com/87930313/213916481-dc317532-3223-4955-9a86-4f5168ccafee.jpg)
 
 
 
