@@ -22,7 +22,7 @@ Kommerzielle Nutzung nur nach individueller Freigabe und Lizenzierung durch den 
 
 
 
-![cbpi4_Icons_v1 261-01](https://user-images.githubusercontent.com/87930313/213916481-dc317532-3223-4955-9a86-4f5168ccafee.jpg)
+[CraftbeerPi4_Iconset_SVG_v1.27.zip](https://github.com/craftbeerpi/craftbeerpi-ui-widgets/files/10549975/CraftbeerPi4_Iconset_SVG_v1.27.zip)
 
 
 
