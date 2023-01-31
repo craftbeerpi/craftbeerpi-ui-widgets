@@ -21,9 +21,7 @@ Kommerzielle Nutzung nur nach individueller Freigabe und Lizenzierung durch den 
 Ähnlichkeit zu existierenden Produkten sind rein zufällig und nicht beabsichtigt.
 
 
-
-[CraftbeerPi4_Iconset_SVG_v1.27.zip](https://github.com/craftbeerpi/craftbeerpi-ui-widgets/files/10549975/CraftbeerPi4_Iconset_SVG_v1.27.zip)
-
+![cbpi4_Icons_v1 27](https://user-images.githubusercontent.com/87930313/215860482-6aac5aca-b3ef-4425-9881-c2b9bd807a0a.jpg)
 
 
 CBPI4 graphics collection, CraftbeerPi4_SVG_Icons_kalausr
